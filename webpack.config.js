@@ -7,7 +7,7 @@ module.exports = {
         filename: "bundle.js",
     },
     mode: "development",
-    resoleve: {
+    resolve: {
         extensions: [".ts", ".js"],
     },
     devServer: {
